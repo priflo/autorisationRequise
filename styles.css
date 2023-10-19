@@ -1,0 +1,32 @@
+* {
+    background-color: #F7B2B7;
+}
+
+body {
+    text-align: center;
+    margin-top: 15rem;
+}
+
+#birthdayForm {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-size: 2rem;
+}
+
+#birthdate {
+    margin-left: 30rem;
+    margin-right: 30rem;
+    margin-top: 1rem;
+    font-size: 1rem;
+}
+
+form input {
+    background-color: white;
+}
+
+form button {
+    background-color: #F7717D;
+}
